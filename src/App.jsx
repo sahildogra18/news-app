@@ -4,7 +4,7 @@ import NavBar from "./Components/NavBar";
 import NewsBoard from "./Components/NewsBoard";
 
 function App() {
-  let [category, setCategory] = useState("genral");
+  let [category, setCategory] = useState("general");
   return (
     <>
       <div>
